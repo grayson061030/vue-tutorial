@@ -22,4 +22,4 @@ npm run build
 
 ## Result
 
-![Alt text] (./doc/test.gif)
+![Alt text](./doc/test.gif)
