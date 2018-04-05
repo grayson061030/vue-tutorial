@@ -5,6 +5,8 @@
 
 ## reference book
 > [VueJS Book] (https://ridibooks.com/v2/Detail?id=754023093)
+> [create by] Vue-CLI
+
 ## Build Setup
 
 ``` bash
@@ -18,4 +20,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Result
+
+![test screenshot] (./doc/test.gif)
