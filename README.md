@@ -22,4 +22,4 @@ npm run build
 
 ## Result
 
-![Alt text] (vue-todo/doc/test.gif)
+![Alt text] (./doc/test.gif)
