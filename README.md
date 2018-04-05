@@ -22,4 +22,4 @@ npm run build
 
 ## Result
 
-![test screenshot] (./doc/test.gif)
+![test screenshot] (https://github.com/Gavinkim/vue-todo/blob/master/doc/test.gif)
