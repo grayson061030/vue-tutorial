@@ -1,8 +1,8 @@
 {
   "name": "vue-todo",
-  "description": "A Vue.js project",
+  "description": "vue todo tutorial",
   "version": "1.0.0",
-  "author": "gskim612 <gskim@hanpass.com>",
+  "author": "gskim612 <dreamworld612@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
